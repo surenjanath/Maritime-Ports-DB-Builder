@@ -7,7 +7,6 @@ Ahoy there, adventurous coders and maritime enthusiasts! ⚓️ Welcome aboard t
 - 🌊 Scrapes essential shipping data from a maritime website.
 - ⚓️ Constructs a robust SQLite database to store countries, ports, and detailed port data.
 - 📚 Respects the website's "robots.txt" rules for ethical web scraping.
-- 🗺️ Guided navigation through the code with a warm and friendly tone.
 - 🌟 Perfect for developers and maritime enthusiasts seeking valuable maritime insights.
 
 ## How to Use:
