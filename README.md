@@ -14,7 +14,7 @@ Ahoy there, adventurous coders and maritime enthusiasts! ⚓️ Welcome aboard t
 
 1. Clone this repository to your local machine.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Run the Python script `maritime_ports_database.py`.
+3. Open with VS Code or PyCharm jupyter notebook and shift + enter to run the cells
 4. Watch as your SQLite database, "ShippingDatabase.db," comes to life with maritime port data!
 
 ## Chart Your Course to Maritime Wisdom! ⛵️🌍
