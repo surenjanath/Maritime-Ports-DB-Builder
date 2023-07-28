@@ -1,5 +1,7 @@
 # Maritime Ports Database Builder 🌊⚓️
-
+<br>
+Please Star if you downloaded it. Thanks 
+<br>
 Ahoy there, adventurous coders and maritime enthusiasts! ⚓️ Welcome aboard the Maritime Ports Database Builder – your ultimate shipmate for exploring the vast seas of maritime data. This Python script sets sail to collect essential shipping information from a maritime website and construct a robust SQLite database using the power of SQLAlchemy.
 
 ## Features:
